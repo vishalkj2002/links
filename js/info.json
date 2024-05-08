@@ -25,10 +25,10 @@
       "href": "https://twitter.com/imrcotch",
       "src": "images/icons/twitter.gif"
     },
-    "SnapChat": {
-      "href": "https://www.snapchat.com/add/imrcotch?share_id=RBSDtD-gptk&locale=en-IN",
-      "src": "images/icons/snap.gif"
-    },
+    // "SnapChat": {
+    //   "href": "https://www.snapchat.com/add/imrcotch?share_id=RBSDtD-gptk&locale=en-IN",
+    //   "src": "images/icons/snap.gif"
+    // },
     "Contact Me": {
       "href": "mailto:musicvkj28@gmail.com",
       "src": "images/icons/mail.gif"
